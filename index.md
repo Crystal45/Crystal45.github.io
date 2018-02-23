@@ -24,7 +24,7 @@ To be updated
  具体介绍
 
 
-![](./5.png)
+
 
 <!--- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
