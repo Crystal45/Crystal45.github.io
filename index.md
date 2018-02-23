@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](./1.png)
+![](./1.jpg)
 # [](#英国学术类)学术类
 牛津大学SAT 预备夏校
 具体介绍
@@ -24,7 +24,7 @@ To be updated
  具体介绍
 
 
-![](./1.png)
+![](./5.png)
 
 <!--- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
